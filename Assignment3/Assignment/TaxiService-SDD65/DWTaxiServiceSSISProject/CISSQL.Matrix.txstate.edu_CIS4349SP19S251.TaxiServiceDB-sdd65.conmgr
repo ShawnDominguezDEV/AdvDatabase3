@@ -1,0 +1,10 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="CISSQL.Matrix.txstate.edu_CIS4349SP19S251.TaxiServiceDB-sdd65"
+  DTS:DTSID="{95F694D5-52CC-471B-8AC4-5C5341F5F02B}"
+  DTS:CreationName="OLEDB">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectionString="Data Source=CISSQL.Matrix.txstate.edu\CIS4349SP19S251;Initial Catalog=TaxiServiceDB-sdd65;Provider=SQLNCLI11.1;Integrated Security=SSPI;Auto Translate=False;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>

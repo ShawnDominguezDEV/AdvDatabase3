@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.106
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaxiService-Assignment1-SDD65", "TaxiService-Assignment1-SDD65\TaxiService-Assignment1-SDD65.csproj", "{86B67C0C-DD14-41ED-BCAC-B9C007373213}"
+EndProject
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "DWTaxiServiceSSISProject", "DWTaxiServiceSSISProject\DWTaxiServiceSSISProject.dtproj", "{671DD388-2B9F-4C60-AF2C-3555E5F8ABC6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Development|Any CPU = Development|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{86B67C0C-DD14-41ED-BCAC-B9C007373213}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86B67C0C-DD14-41ED-BCAC-B9C007373213}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86B67C0C-DD14-41ED-BCAC-B9C007373213}.Development|Any CPU.ActiveCfg = Debug|Any CPU
+		{86B67C0C-DD14-41ED-BCAC-B9C007373213}.Development|Any CPU.Build.0 = Debug|Any CPU
+		{86B67C0C-DD14-41ED-BCAC-B9C007373213}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86B67C0C-DD14-41ED-BCAC-B9C007373213}.Release|Any CPU.Build.0 = Release|Any CPU
+		{671DD388-2B9F-4C60-AF2C-3555E5F8ABC6}.Debug|Any CPU.ActiveCfg = Development
+		{671DD388-2B9F-4C60-AF2C-3555E5F8ABC6}.Debug|Any CPU.Build.0 = Development
+		{671DD388-2B9F-4C60-AF2C-3555E5F8ABC6}.Development|Any CPU.ActiveCfg = Development
+		{671DD388-2B9F-4C60-AF2C-3555E5F8ABC6}.Development|Any CPU.Build.0 = Development
+		{671DD388-2B9F-4C60-AF2C-3555E5F8ABC6}.Release|Any CPU.ActiveCfg = Development
+		{671DD388-2B9F-4C60-AF2C-3555E5F8ABC6}.Release|Any CPU.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E2554147-8454-437F-B6EA-065C5ADBC9DA}
+	EndGlobalSection
+EndGlobal
